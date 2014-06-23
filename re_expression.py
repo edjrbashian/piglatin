@@ -1,5 +1,5 @@
 import os, sys, re
-id_list = [" roger", "bobken", " samantha"]
+id_list = [" rober", "bobken", " samantha"]
   
 no_space = []
 for i in id_list:
