@@ -1,5 +1,6 @@
 import os, sys, re
 <<<<<<< HEAD
+<<<<<<< HEAD
 id_list = [" rober", "bobken", " samantha"]
   
 no_space = []
@@ -13,6 +14,8 @@ print no_space
   	
                        	
 =======
+=======
+>>>>>>> fbd76ba194f9da97ddafeb5ce71a5de3a86efdba
 id_list = [" roger", "boben", " samantha"]
   
 no_space = []
@@ -25,4 +28,7 @@ print no_space
   	
   	
                        	
+<<<<<<< HEAD
+>>>>>>> fbd76ba194f9da97ddafeb5ce71a5de3a86efdba
+=======
 >>>>>>> fbd76ba194f9da97ddafeb5ce71a5de3a86efdba
